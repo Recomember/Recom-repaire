@@ -12,3 +12,6 @@ public class RecomemberStatusConstant {
     public static final int LIMIT = 5;
 
 }
+/**
+更新衞藤
+*/
